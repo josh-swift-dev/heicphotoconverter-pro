@@ -1,0 +1,59 @@
+<section>
+  <h1>How to Use HEIC Converter Pro</h1>
+
+  <ol>
+    <li>Open <strong>HEIC Converter Pro</strong>.</li>
+
+    <li>Tap <strong>Select HEIC/HEIF Photos</strong>.</li>
+
+    <li>
+      Choose one or more HEIC or HEIF photos from your photo library, then tap
+      <strong>Done</strong>.
+    </li>
+
+    <li>
+      Your selected HEIC/HEIF photos will appear in the <strong>Photos</strong> section.
+    </li>
+
+    <li>
+      Choose your output format:
+      <ul>
+        <li><strong>JPG</strong> for smaller, widely compatible photos.</li>
+        <li><strong>PNG</strong> for lossless image output.</li>
+      </ul>
+    </li>
+
+    <li>
+      If JPG is selected, adjust the <strong>JPG Quality</strong> slider if desired.
+      Lower quality usually creates smaller files. Higher quality keeps more detail
+      but may create larger files.
+    </li>
+
+    <li>Tap <strong>Convert Selected Photos</strong>.</li>
+
+    <li>
+      After conversion, the Results screen will show:
+      <ul>
+        <li>How many photos were converted</li>
+        <li>How many non-HEIC/HEIF photos were skipped</li>
+        <li>Thumbnails of converted photos</li>
+        <li>Original and converted file sizes</li>
+      </ul>
+    </li>
+
+    <li>Tap <strong>OK</strong> to return to the main screen.</li>
+
+    <li>
+      Converted photos are saved to your Photos app in an album named
+      <strong>HEIC Converted</strong>.
+    </li>
+  </ol>
+
+  <h2>Notes</h2>
+  <ul>
+    <li>The app only converts HEIC and HEIF images.</li>
+    <li>JPG, PNG, screenshots, and other image types are skipped.</li>
+    <li>All conversion happens on your device.</li>
+    <li>Your photos are never uploaded or sent anywhere.</li>
+  </ul>
+</section>
